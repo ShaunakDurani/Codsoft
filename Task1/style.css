@@ -1,0 +1,150 @@
+.social-media{
+    background-image: linear-gradient(to right,#feda75,#d62976);
+    height:50px;
+    width:100%;
+    display: inline-flex;
+    gap:200px;
+    align-items: center;
+    justify-content: center;
+}
+
+.title{
+    display:inline-flex;
+    gap: 100px;
+    width: 100%;
+    justify-content: center;
+}
+
+.tl{
+    display: inline-flex;
+    gap:5px;
+    margin-left: 50px;     
+}
+.options{
+    display: inline-flex;
+    gap:20px;
+}
+
+.content1{
+    background-image: url(./pngtree-young-man-in-a-suit-writing-in-a-dark-forest-picture-image_2618804.jpg);
+    height:500px;
+    color: white;
+    display: inline-flex;
+    width:100%;
+}
+
+.content2{
+    display: inline-flex;
+    height:200px;   
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    width:100%;
+    background-image: linear-gradient(to right,#feda75,#d62976);
+}
+
+.content3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:100px;
+    margin:auto;
+    margin-left: 120px;
+}
+
+.content4{
+    width:100%;
+    height:400px;
+    background-image: url("./istockphoto-1292555104-612x612.jpg");
+}
+
+.c1{
+    margin-left: 185px;
+    padding-top: 100px;
+}
+
+.c11,.c12,.c13{
+    width:300px;
+}
+
+.c21{
+    width:500px;
+    height:400px;
+}
+
+.content3 > .c22 >img{
+    height:400px;
+    width: 400px;
+}
+
+.c4img{
+    display:inline-flex;
+    gap: 50px;
+    margin-top: 50px;
+}
+
+.content4 > .c4img > img{
+    height: 200px;
+    width:300px;
+}
+
+.cb{
+    display: inline-flex;
+    gap:20px;
+}
+
+.b1,.c3b1{
+    background-image: linear-gradient(to right,#feda75,#d62976);
+    border: none;
+    color: white;
+}
+
+.b2{
+    background-color: transparent;
+    border-color: white;
+    color: white;
+}
+
+.b1,.b2,.c3b1,.smb{
+    height:40px;
+    border-radius: 12px;
+}
+
+.smb{
+    background-color: transparent;
+    border-color: white;
+    color: white;
+}
+
+.logos{
+    display: inline-flex;
+    gap:20px;
+    margin-left: 100px;
+}
+
+.c4d{
+    height:5px;
+    width:50px;
+    background-image: linear-gradient(to right,#feda75,#d62976);
+    border-radius: 12px;
+}
+
+.c3d{
+    height:5px;
+    width:50px;
+    background-image: linear-gradient(to right,#feda75,#d62976);
+    border-radius: 12px;
+}
+
+.c11{
+    margin-left: 120px;
+}
+
+.c4c{
+    margin-left: 180px;
+}
+
+.a,.b,.c{
+    display: inline-flex;
+    gap:10px;
+}
